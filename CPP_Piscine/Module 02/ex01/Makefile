@@ -1,8 +1,8 @@
 CPP			:=	clang++
 CPPFLAGS	:=	-std=c++98 -g -Wall -Wextra -Werror
-NAME		:=	karenFilter
+NAME		:=	a.out
 SRCS		:=	main.cpp \
-				Karen.cpp
+				Fixed.cpp
 
 OBJS		=	$(subst .cpp,.o,$(SRCS))
 
