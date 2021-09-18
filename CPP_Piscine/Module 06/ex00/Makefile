@@ -1,8 +1,8 @@
 CPP			:=	clang++
 CPPFLAGS	:=	-std=c++98 -g -MMD -Wall -Wextra -Werror
-NAME		:=	a.out
+NAME		:=	convert
 SRCS		:=	main.cpp \
-                Bureaucrat.cpp \
+                Converter.cpp
 
 OBJS		=	$(subst .cpp,.o,$(SRCS))
 D_FILES		=	$(subst .cpp,.d,$(SRCS))
