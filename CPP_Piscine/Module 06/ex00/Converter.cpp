@@ -37,7 +37,7 @@ void Converter::displayConversions(std::string arg) {
 			   std::end(_pseudoLiterals),
 			   arg) != std::end(_pseudoLiterals))
 		displayPseudoLiteral(arg);
-	else if (sscanf(arg.c_str(), "%d", &_iValue) == 1) {
+	else if ((_iValue = static_cast<int>(arg)) != NULL) {
 		displayItoC();
 		std::cout << "int: " << _iValue << std::endl;
 		displayItoF();
@@ -84,26 +84,23 @@ void Converter::displayItoC() {
 
 void Converter::displayItoF() {
 	_fValue = static_cast<float>(_iValue);
-	double _;
 	std::cout << "float: ";
 	if (static_cast<int>(_fValue) != _iValue)
 		std::cout << "impossible";
-	else if (std::modf(_fValue, &_) == 0)
-		std::cout << std::setprecision(1) << _fValue;
 	else
-		std::cout << _fValue;
-	std::cout << "f" << std::endl;
+		std::cout 	<< std::fixed << std::setprecision(1)
+					<< _fValue << typeid(_fValue).name();
+	std::cout << std::endl;
 }
+//	(std::modf(_fValue, &_) == 0)
 
 void Converter::displayItoD() {
 	_dValue = static_cast<double>(_iValue);
-	double _;
 	std::cout << "double: ";
 	if (static_cast<int>(_dValue) != _iValue)
 		std::cout << "impossible";
-	else if (std::modf(_dValue, &_) == 0)
-		std::cout << std::setprecision(1) << _dValue;
 	else
-		std::cout << _dValue;
+		std::cout	<< std::fixed << std::setprecision(1)
+					<< _dValue;
 	std::cout << std::endl;
 }
