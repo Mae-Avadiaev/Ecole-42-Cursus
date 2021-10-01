@@ -8,8 +8,8 @@ void addFive(T& i) {
 	i += 5;
 }
 
-template<typename R, typename T>
-void iter(R* adr, int len, T* func) {
+template<typename R>
+void iter(R adr[], int len, void (func)(R&)) {
 	for (int i = 0; i < len; i++)
 		func(adr[i]);
 }

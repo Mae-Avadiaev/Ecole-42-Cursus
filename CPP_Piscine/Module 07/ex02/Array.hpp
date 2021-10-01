@@ -10,44 +10,53 @@ public:
 
 	public:
 
-		const char* what() { return "Index out of range"; }
+		const char* what() const _NOEXCEPT { return "Index out of range"; }
 	};
 
 	Array() {
 		_arr = new T[0];
+		_size = 0;
 	}
 
 	Array(unsigned int n) {
 		_arr = new T[n];
+		_size = n;
 	}
 
 	Array(const Array& other) {
 		_arr = new T[other.size()];
-		std::copy(std::begin(other._arr), std::end(other._arr), std::begin(_arr));
+		_size = other.size();
+		for (int i = 0; i < other.size(); i++)
+			_arr[i] = other._arr[i];
 	}
 
 	~Array() {};
 
 	Array& operator=(const Array& other) {
-		std::copy(std::begin(other._arr), std::end(other._arr), std::begin(_arr));
+		delete _arr;
+		_arr = new T[other.size()];
+		_size = other.size();
+		for (int i = 0; i < other.size(); i++)
+			_arr[i] = other._arr[i];
 	}
 
 	T& operator[](int index) const {
 		if (index < 0)
-			throw OutOfRangeException::OutOfRangeException;
-		else if (index > _arr.size())
-			throw OutOfRangeException::OutOfRangeException;
+			throw OutOfRangeException();
+		else if (index >= this->size()) {
+			throw OutOfRangeException();
+		}
 		return _arr[index];
 	}
 
 	int size() const {
-		return static_cast<int>(sizeof(*_arr)/sizeof(T));
+		return _size;
 	}
 
 private:
 
 	T* _arr;
-
+	int _size;
 };
 
 #endif

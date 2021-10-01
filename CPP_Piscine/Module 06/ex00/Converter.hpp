@@ -19,9 +19,13 @@ private:
 
 	void displayPseudoLiteral(std::string arg);
 
-	void displayItoC();
 	void displayItoF();
 	void displayItoD();
+
+	void displayDtoC();
+	void displayDtoI();
+	void displayDtoF();
+	void displayD();
 
 	std::string _pseudoLiterals[6];
 	std::string _fPLiterals[3];
