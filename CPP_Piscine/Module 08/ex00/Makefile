@@ -1,6 +1,6 @@
 CPP			:=	clang++
 CPPFLAGS	:=	-std=c++98 -g -MMD -Wall -Wextra -Werror
-NAME		:=  array
+NAME		:=	easyfind
 SRCS		:=	main.cpp
 
 OBJS		=	$(subst .cpp,.o,$(SRCS))
