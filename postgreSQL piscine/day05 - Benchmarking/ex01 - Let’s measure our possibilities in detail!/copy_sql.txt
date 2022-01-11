@@ -1,0 +1,3 @@
+\COPY test00_01_1 FROM 'pgbench_log.81536' (DELIMITER ' ');
+	
+\COPY test00_01_2 FROM 'pgbench_log.85337' (DELIMITER ' ');

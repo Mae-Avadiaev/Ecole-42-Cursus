@@ -1,0 +1,47 @@
+table 20999.643210 / view 22331.223489	10
+=
+0.940371								ratio	
+
+
+bench_table 
+10
+latency average = 0.480 ms
+tps = 20817.080318 (including connections establishing)
+tps = 20818.403232 (excluding connections establishing)
+
+20
+latency average = 0.982 ms
+tps = 20376.270546 (including connections establishing)
+tps = 20377.331149 (excluding connections establishing)
+
+40
+latency average = 2.080 ms
+tps = 19229.766754 (including connections establishing)
+tps = 19230.778443 (excluding connections establishing)
+
+80
+latency average = 4.557 ms
+tps = 17556.487795 (including connections establishing)
+tps = 17557.461508 (excluding connections establishing)
+
+
+bench_view
+10
+latency average = 0.500 ms
+tps = 20006.948663 (including connections establishing)
+tps = 20008.048102 (excluding connections establishing)
+
+20
+latency average = 1.027 ms
+tps = 19478.035270 (including connections establishing)
+tps = 19479.067475 (excluding connections establishing)
+
+40
+latency average = 2.134 ms
+tps = 18740.055762 (including connections establishing)
+tps = 18741.018065 (excluding connections establishing)
+
+80
+latency average = 4.752 ms
+tps = 16836.025459 (including connections establishing)
+tps = 16836.865216 (excluding connections establishing)
