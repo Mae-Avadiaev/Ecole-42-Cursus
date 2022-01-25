@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <deque>
+#include <stdlib.h>
 #if 1 //CREATE A REAL STL EXAMPLE
 	#include <map>
 	#include <stack>
@@ -12,23 +13,34 @@
 	#include <vector.hpp>
 #endif
 
-#include <stdlib.h>
-
 #define MAX_RAM 4294967296
 #define BUFFER_SIZE 4096
+
 struct Buffer
 {
 	int idx;
 	char buff[BUFFER_SIZE];
 };
 
-
 #define COUNT (MAX_RAM / (int)sizeof(Buffer))
 
+stack<int> myStack;
+
+
+
+
+
+
+
+
+
+
+
 template<typename T>
-class MutantStack : public ft::stack<T>
-{
+class MutantStack : public ft::stack<T> {
+
 public:
+
 	MutantStack() {}
 	MutantStack(const MutantStack<T>& src) { *this = src; }
 	MutantStack<T>& operator=(const MutantStack<T>& rhs) 
