@@ -17,8 +17,8 @@ int		move(t_data *data)
 	double	movespeed;
 	double	rotspeed;
 
-	movespeed = 0.1;
-	rotspeed = 0.1;
+	movespeed = 0.03;
+	rotspeed = 0.03;
 	if (data->key.w == 1 || data->key.s == 1)
 		key_w_or_key_s(data, movespeed);
 	if (data->key.a == 1 || data->key.d == 1)

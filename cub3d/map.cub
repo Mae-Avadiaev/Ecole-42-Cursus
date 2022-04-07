@@ -1,14 +1,13 @@
-R    1920    1080   
+R 1920 1080   
 
-NO        ./textures/MP_diff_blue.png
-SO ./textures/MP_diff_green.png
-WE ./textures/MP_diff_red.png
+NO ./textures/matrix.png
+SO ./textures/matrix.png
+WE ./textures/matrix.png
+EA ./textures/matrix.png
+S ./textures/neo.png
 
-EA       ./textures/MP_diff_orange.png
-S ./textures/img_34.png
-
-F  255,0,0   
-C  0,255,0
+F  186,252,195    
+C  0,0,0
 
 
         1111111111111111111111111 
