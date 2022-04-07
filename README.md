@@ -1,4 +1,4 @@
- Ecole_42: This repository represents my experience in C and C++ through 42cursus
+ Ecole_42: This repository represents my proficiency in C, C++, Asm, OOP, SQL and system administration during 42 cursus
 
 ### Projects:
 1. # Libft [![mclown's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2023403)](https://github.com/JaeSeoKim/badge42)
@@ -56,7 +56,7 @@
    ## How to play?
    Go to your terminal and paste
    ``` 
-   git clone https://github.com/prevetmelon/cub3d.git ~/SYNC42cursus
+   git clone https://github.com/Mitya-Avadyaev/Ecole-42-Cursus.git ~/SYNC42cursus
    cd ~/SYNC42Cursus/cub3d && make && ./cub3d map.cub 
    ```
    
@@ -78,45 +78,46 @@
    
 9. # Exam Rank 03 [![mclown's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2214472)](https://github.com/JaeSeoKim/badge42)
 
-   Description here
+   On this exam I hacked micro paint which read an "operation file" and printed circles in the terminal in Vim editor without any aditional materials. 
 
-   **[2 hours]**
+   **[3 hours]**
   
 10. # SQL_Piscine (School 21)
    
-   Description here
    
-   **[180 hours]**
+    I used **PostgreSQL** and **pgAdmin**. I designed data bases, generated data, refactored, created views, trigger functions, retrievied data for analysis via complex queries, and also visualise it using **Grafana**.
+   
+    **[180 hours]**
    
 11. # Philosophers [![mclown's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2207096)](https://github.com/JaeSeoKim/badge42)
    
-   Description here
+    In the main part of the project I saw how to create **threads** of a process and discovered **mutexes**. In the bonus part I wrote the same project using **proceses** instead threads and **semaphores**.
    
-   **[70 hours]**
+    **[70 hours]**
    
 12. # Exam Rank 04 [![mclown's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2285248)](https://github.com/JaeSeoKim/badge42)
 
-   Description here
+    I had 3 hours to write a program that behaves like executing a shell command i.e microshel in Vim editor without any materials. 
    
-   **[2 hours]**
+    **[3 hours]**
 
 13. # CPP_Piscine [![mclown's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2362958)](https://github.com/JaeSeoKim/badge42)
 
-   Description here
+    Description here
 
-   **[70 hours]**
+    **[70 hours]**
    
 14. # NetPractice [![mclown's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2378660)](https://github.com/JaeSeoKim/badge42)
 
-   Description here
+    Description here
 
-   **[50 hours]**
+    **[50 hours]**
     
  15. # Exam Rank 05 [![mclown's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2384744)](https://github.com/JaeSeoKim/badge42)
 
-   Description here
+     Description here
 
-   **[2 hours]**
+     **[2 hours]**
    
    
    
