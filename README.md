@@ -127,15 +127,17 @@
     <img width="371" alt="Webp net-resizeimage" src="https://user-images.githubusercontent.com/60491116/162392208-a391b0bf-c723-4028-aa35-431ba7fb87a0.png">
 
 
-
-
     **[50 hours]**
     
  15. # Exam Rank 05 [![mclown's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2384744)](https://github.com/JaeSeoKim/badge42)
 
-     I wrote 10 classes on C++98, instanciated them and made them interact. I had to write in Vim editor without any aditional materials.  
+     I wrote 10 classes on C++98, instanciated them and made them interact. I had to write it in Vim editor without any aditional materials.  
 
      **[3 hours]**
    
-   
+16. # Exam Rank 06 [![mclown's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2551855)](https://github.com/JaeSeoKim/badge42)
+
+     I wrote a program that listened for client to connect on a certain port on 127.0.0.1 and let clients to speak with each other. I had to wrote it in Vim editor without any aditional materials.  
+
+     **[3 hours]**
    
