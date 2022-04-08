@@ -51,7 +51,8 @@
    
     **[280 hours]**
    
-    ![Cub3d-small](https://user-images.githubusercontent.com/60491116/162174170-54d7f295-1f4c-4357-aed3-f3cfee5e545b.gif)
+   ![cub3d](https://user-images.githubusercontent.com/60491116/162406600-fcf117f3-47e2-4031-9fe4-5a32afe13971.gif)
+
     
    ## How to play?
    Go to your terminal and paste
@@ -74,6 +75,8 @@
    
    I recoded **7 functions** of standard C library using **Asm**. Assembler is one of the most low-level programming languages for a computer, or other programmable device. It may also be called symbolic machine code.
    
+   <img width="296" alt="Webp net-resizeimage (2)" src="https://user-images.githubusercontent.com/60491116/162393814-efd66e23-257a-45c1-88ec-97f6247ca758.png">
+
    **[70 hours]**
    
 9. # Exam Rank 03 [![mclown's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2214472)](https://github.com/JaeSeoKim/badge42)
@@ -85,14 +88,20 @@
 10. # SQL_Piscine (School 21)
    
    
-    I used **PostgreSQL** and **pgAdmin**. I designed data bases, generated data, refactored, created views, trigger functions, retrievied data for analysis via complex queries, and also visualise it using **Grafana**.
+    I used **PostgreSQL** and **pgAdmin**. I designed data bases, generated data, refactored tables, created views and trigger functions, retrievied data for analysis via complex queries, and also visualised it using **Grafana**.
    
+    ![Webp net-resizeimage](https://user-images.githubusercontent.com/60491116/162394862-67e45bc0-51d1-4077-afbc-a4356ac9f382.jpg)
+
+
     **[180 hours]**
    
 11. # Philosophers [![mclown's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2207096)](https://github.com/JaeSeoKim/badge42)
    
     In the main part of the project I saw how to create **threads** of a process and discovered **mutexes**. In the bonus part I wrote the same project using **proceses** instead threads and **semaphores**.
    
+    ![philo3](https://user-images.githubusercontent.com/60491116/162404372-880eb23e-ba45-49a6-b30c-926018fc44c8.gif)
+
+
     **[70 hours]**
    
 12. # Exam Rank 04 [![mclown's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2285248)](https://github.com/JaeSeoKim/badge42)
@@ -103,21 +112,30 @@
 
 13. # CPP_Piscine [![mclown's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2362958)](https://github.com/JaeSeoKim/badge42)
 
-    Description here
+    In this project I dived into **OOP**: polymorphism, inheritance, orthodox canonical classes, abstract classes, exeptions, casts, templates, and iterators. I used **C++98**.
+    
+    <img width="230" alt="Webp net-resizeimage (1)" src="https://user-images.githubusercontent.com/60491116/162408705-fa5e11cc-dba0-405b-95b0-43fc65e6a2b3.png">
+
 
     **[70 hours]**
    
 14. # NetPractice [![mclown's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2378660)](https://github.com/JaeSeoKim/badge42)
 
-    Description here
+    One more project related to system administration. Its about solving networking problems to make a network run. I had to configure small-scale networks to complete 10 levels of the exercise.
+    
+    
+    <img width="371" alt="Webp net-resizeimage" src="https://user-images.githubusercontent.com/60491116/162392208-a391b0bf-c723-4028-aa35-431ba7fb87a0.png">
+
+
+
 
     **[50 hours]**
     
  15. # Exam Rank 05 [![mclown's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2384744)](https://github.com/JaeSeoKim/badge42)
 
-     Description here
+     I wrote 10 classes on C++98, instanciated them and made them interact. I had to write in Vim editor without any aditional materials.  
 
-     **[2 hours]**
+     **[3 hours]**
    
    
    
