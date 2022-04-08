@@ -33,13 +33,13 @@
 
 5. # Exam Rank 02 [![mclown's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2061449)](https://github.com/JaeSeoKim/badge42)
 
-   I recoded light version of the get_next_line in less than 2 hours in Vim editor without any materials.
+   I recoded a light version of the get_next_line in less than 2 hours in Vim editor without any additional materials.
    
    **[2 hours]**
    
 6. # Ft_Server [![mclown's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2061450)](https://github.com/JaeSeoKim/badge42)
 
-   I installed complete web server using Docker, wrote some scripts to automate tasks, set up Wordpress, phpMyAdmin, and a SQL database.
+   I installed a complete web server using Docker, wrote some scripts to automate tasks, set up Wordpress, phpMyAdmin, and SQL database.
    
    **[180 hours]**
 
@@ -47,7 +47,7 @@
 7. # Cub3d [![mclown's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2061621)](https://github.com/JaeSeoKim/badge42)
 
 
-   I made a **dinamic view** inside the maze using **Raycasting technique**. This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. I used MiniLibX, it is a tiny graphics library which allowed me to do the most basic things for rendering colored pixels in screen. TRY IT!
+   I made a **dinamic view** inside the maze using **Raycasting technique**. This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. I used MiniLibX, it is a tiny graphics library which allowed me to do the most basic things for rendering colored pixels on the screen. TRY IT!
    
     **[280 hours]**
    
@@ -81,7 +81,7 @@
    
 9. # Exam Rank 03 [![mclown's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2214472)](https://github.com/JaeSeoKim/badge42)
 
-   On this exam I hacked micro paint which read an "operation file" and printed circles in the terminal in Vim editor without any aditional materials. 
+   During this exam I coded micro paint which read an "operation file" and printed circles in the terminal in Vim editor without any aditional materials. 
 
    **[3 hours]**
   
@@ -97,7 +97,7 @@
    
 11. # Philosophers [![mclown's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2207096)](https://github.com/JaeSeoKim/badge42)
    
-    In the main part of the project I saw how to create **threads** of a process and discovered **mutexes**. In the bonus part I wrote the same project using **proceses** instead threads and **semaphores**.
+    In the main part of the project I saw how to create **threads** of a process and discovered **mutexes**. In the bonus part I wrote the same project using **proceses** instead of threads and **semaphores** instead of mutexes.
    
     ![philo3](https://user-images.githubusercontent.com/60491116/162404372-880eb23e-ba45-49a6-b30c-926018fc44c8.gif)
 
@@ -106,7 +106,7 @@
    
 12. # Exam Rank 04 [![mclown's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2285248)](https://github.com/JaeSeoKim/badge42)
 
-    I had 3 hours to write a program that behaves like executing a shell command i.e microshel in Vim editor without any materials. 
+    I had 3 hours to write a program that behaves like executing a shell command i.e microshell in Vim editor without any additional materials. 
    
     **[3 hours]**
 
@@ -121,7 +121,7 @@
    
 14. # NetPractice [![mclown's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2378660)](https://github.com/JaeSeoKim/badge42)
 
-    One more project related to system administration. Its about solving networking problems to make a network run. I had to configure small-scale networks to complete 10 levels of the exercise.
+    One more project related to system administration. It's about solving networking problems to make a network run. I had to configure small-scale networks to complete 10 levels of the test.
     
     
     <img width="371" alt="Webp net-resizeimage" src="https://user-images.githubusercontent.com/60491116/162392208-a391b0bf-c723-4028-aa35-431ba7fb87a0.png">
