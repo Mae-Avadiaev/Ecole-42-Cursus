@@ -1,4 +1,4 @@
- Ecole_42: This repository represents my proficiency in C, C++, Asm, OOP, SQL and system administration during 42 cursus
+1st and 2nd years of École 42. Proficiency in C, C++, Asm, OOP, SQL and system administration.
 
 ### Projects:
 1. # Libft [![mclown's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1or1xbp011209jw9sdpd6hm/project/2023403)](https://github.com/JaeSeoKim/badge42)
